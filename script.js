@@ -6,7 +6,7 @@ const videoFrame = document.querySelector("[data-video-frame]");
 const videoTitle = document.getElementById("video-modal-title");
 const videoTriggers = document.querySelectorAll("[data-video-trigger]");
 const videoClosers = document.querySelectorAll("[data-video-close]");
-const rotatingWords = ["ferro", "aluminio", "aco", "inox", "tubos e chapas"];
+const rotatingWords = ["ferro", "aluminio", "aço", "inox", "tubos e chapas"];
 
 let rotatingIndex = 0;
 
